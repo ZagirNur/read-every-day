@@ -1,2 +1,2 @@
-# read-every-day
+# Read every day
 Bot for daily reading
